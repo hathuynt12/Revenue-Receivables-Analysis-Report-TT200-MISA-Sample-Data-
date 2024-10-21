@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="70"
-  DTS:VersionGUID="{9D9095C9-C04F-42A9-9CDE-C8E077034A42}">
+  DTS:VersionBuild="71"
+  DTS:VersionGUID="{B9147D23-E55C-4925-B5C1-5FA8BB050711}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -85,12 +85,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=14.232.245.6,1433;User ID=inda;Initial Catalog=MISA_DWH;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{B3E85ADF-6AB1-40CD-B1A7-27F9400D50CF}14.232.245.6,1433.MISA_DWH.inda 1;Auto Translate=False;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAytRvoP+BpUGnO4KLRS438gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABI1EipdFZYt0hl3t7Se8dkJtZ93dtMOvACg7AJOELsRQAAAAAOgAAAAAIAACAAAAAc1FzUvykD2bjG1UNL0mS/BIexevBzO0fEIv3KtkWl1yAAAACg+m5KJeZRamzN2wwR0U/+SpIq95AKjnU6ybFMA3Imx0AAAAAvNqdwnBdGNOFVQ8jFKjwD5+EyUz3LGgayJ9fVBFLGwu5avttGbWstWvuHK5TTU6/F2iUY5XvDr8l/k5Vk8qFM</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=14.232.245.6,1433;User ID=inda;Initial Catalog=MISA_DWH;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{B3E85ADF-6AB1-40CD-B1A7-27F9400D50CF}14.232.245.6,1433.MISA_DWH.inda 1;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -114,12 +109,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=14.232.245.6,1433;User ID=inda;Initial Catalog=MISA_STG;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{98E196F7-8C73-4C6D-8827-2E0060D14014}14.232.245.6,1433.MISA_STG.inda 1;Auto Translate=False;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAytRvoP+BpUGnO4KLRS438gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACoYY4cwoZLJfKg2OAjlfci0Fg+2jqaCf140r+N7UHsggAAAAAOgAAAAAIAACAAAACkB6O41uFgiRyuY7BU+FYvYPv2ztHNfWKmdC7CQJATTCAAAACK40uIrvQs6gsolMDu231l9Z6BIPT4mgWBnz5DBl3XFUAAAABqE6j6u6uChZcLyzCgHYmc6zLSoKfxt/o5Xem1h7eNycSSKLQuwHgx1SqPy7q5/xDR1WjIrIEAcTRSuL4YdM9i</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=14.232.245.6,1433;User ID=inda;Initial Catalog=MISA_STG;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{98E196F7-8C73-4C6D-8827-2E0060D14014}14.232.245.6,1433.MISA_STG.inda 1;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -264,7 +254,7 @@
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select sysdate from dual</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -281,7 +271,7 @@
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">2</property>
                 <property
                   dataType="System.String"
                   description="The mappings between the parameters in the SQL command and variables."
@@ -13631,6 +13621,10 @@ GROUP BY
           Id="Package\checkgit"
           TopLeft="605.5,189.5" />
         <NodeLayout
+          Size="155,42"
+          Id="Package\Data Flow Task"
+          TopLeft="435,243" />
+        <NodeLayout
           Size="137,42"
           Id="Package\dim)product"
           TopLeft="36,37" />
@@ -13658,10 +13652,6 @@ GROUP BY
           Size="168,42"
           Id="Package\stg_accountobject"
           TopLeft="40.5,188.5" />
-        <NodeLayout
-          Size="155,42"
-          Id="Package\Data Flow Task"
-          TopLeft="435,243" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -13717,6 +13707,70 @@ GROUP BY
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\checkgit\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Data Flow Task">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="157,42"
+          Id="Package\Data Flow Task\OLE DB Source"
+          TopLeft="178,82" />
+        <NodeLayout
+          Size="177,42"
+          Id="Package\Data Flow Task\OLE DB Destination"
+          TopLeft="579,87" />
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
+          TopLeft="335,105.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="244,0"
+              Start="0,0"
+              End="236.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="236.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Task\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Task\OLE DB Source">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -14228,70 +14282,6 @@ GROUP BY
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\stg_accountobject\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Data Flow Task">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="157,42"
-          Id="Package\Data Flow Task\OLE DB Source"
-          TopLeft="178,82" />
-        <NodeLayout
-          Size="177,42"
-          Id="Package\Data Flow Task\OLE DB Destination"
-          TopLeft="579,87" />
-        <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
-          TopLeft="335,105.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="244,0"
-              Start="0,0"
-              End="236.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="236.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
