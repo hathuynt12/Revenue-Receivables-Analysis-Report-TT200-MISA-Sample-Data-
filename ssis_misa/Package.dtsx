@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="66"
-  DTS:VersionGUID="{7ACC2AC3-BD0E-42DA-AA84-3B9D91BA134B}">
+  DTS:VersionBuild="68"
+  DTS:VersionGUID="{EAB551D5-2AE7-41C0-AF68-71E9160DB6B0}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAByGQcT8R2LDOkIWG2pgCA9DkCytZc7v0PCkKi+US5WcwAAAAAOgAAAAAIAACAAAAAg2/eE7jYdkyc7DX7gdYcie6mdxTpGfElX3Ix6TXSiWCAAAABa7b77uDEkCgDWVfoFDYvQqZbsCtCuVtyNKR2EA+w3lkAAAAC4Chepxx6l8oqvKv4xYnKDZ8vsKN2KyeFLKmRVF+ZHeMpnaDGWcAY6z7tj67qiYApMDa09yLcnu0o0EPWJ5zNB</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADjP5jlQzCNWvWUyRU8vHvtcRu2uT+o7XuVaUykUP0oWgAAAAAOgAAAAAIAACAAAABVU5ZYws8GLHcbga7EO2/KBY9vHTecNO2a2uSu8sMyJCAAAABG5SRKgivqfwfKV5glfGtW6YgTC5CADGL5Lycx6+tW3kAAAACLZBNNobxYlwForLIta6VTB/Z9U3QgqaosUibg65psPMRsMrlTbxUEGlK/Cvn8hbhfkAXLAnq5b24SMgfugavM</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOQxaQ+H6Su/HacW5KE+H9aRF6NZujG6nEypE44WrJFAAAAAAOgAAAAAIAACAAAAAuGb/fKAGUi0YqpTY0qXdfCOomxss8oBX75ipp95JK2yAAAAB4YetcO9VVV/1ATGYiQnvfR/1ekI4VqsGYAEPgp+g1HUAAAADkHc4CpwyMnV+b4sQ3lqxDdWD4Jv8niH0f5d0dzn3KIAWPgRlQ0tMpZ6w3JWDc3vnKIB5/8BCfbws7PnTiiCp3</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADHcEiOSgNVUNn2VhQm+meJLhNjAGSRGJ329AZj3qRDEwAAAAAOgAAAAAIAACAAAACCSWFaioJAcRThx8mCN2UuECUA+X9AV2t5F6L2j/rhrSAAAACuHNd1WOmtu4kmVpG0uFfnMRPl4zIfGAIZH+p9nbVt3UAAAAC+OLz1gUgOM+EoIIsT0Ssf/HdFmhWZp7dRweVFMELucCL1JnDHdtuG5T0ysGRLOxyU3Rvx7ZiGeeIUtR6WD9RB</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADJipelLxExnFwq+S1/HjJhBN036XfWpMjdr4qShdC1XwAAAAAOgAAAAAIAACAAAACIVn8j6JPwfKx0B2ljNK1rRTbgjdrlpp9z2FaEDzgVHiAAAADJQLnKKBsGXtevQNcYCRHkEGxd8l4BQmfQl8+YJpQ7Z0AAAABqC026koAEZJaTITgjhXFcUoKtTIeT+R0fgqdeG5aszwoYqSHT8LhkUnjRmitCksbdhA3bTVIDZAZ/dMBmTfYw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABs06u8w1CTrFrENoKdbnSPG/1AL3yCOtv+sdMfybSYpAAAAAAOgAAAAAIAACAAAABqPCidCfgOmGE/1ghN4gkyamteTiLqoOUjKYqW/x4O6SAAAADrBDXbZI3jPTw3m8BCiecfxzOFwRNl0h6DXQcIVZA8PEAAAABJaCnzhlkJCR632Vgi+r23olH/zrePpxmdpQ74OBF6Bj1wXVg8ka/JNe99fSSn9Xu8tMaldW0gzdkdsrKs9h3s</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAM4cYWGt+MqAzc9XNuon2M6AQ1boIwSgxRdYp1BhASuwAAAAAOgAAAAAIAACAAAADq91ilP/ijVfv5JknhhZAdRMQUN+D/GhmFR3F5qXNTPyAAAABxEBg/kZzu0kRag7UE+JMF1LFyuTW1ec9XI1r8juxFEkAAAABDH0ePqzvdapex+Yu9F89z6XhCZXS2XjDsLZD+8apIux4zkVqceuzBXrawpHIsa0SyvfOITiT0MhIL/1zAFaXk</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABvSLWvAKHKK3r6hsfVs2jTTYJl5LpLVi4V3u/jmOcLBwAAAAAOgAAAAAIAACAAAACcRNeSBcvH3JAbI90ieB11tMkww/RzJCQBHIYXxrN3uiAAAADZUtVmRL+Ir31Q50wSc/TqfkMpNE6QSqGHvQLm9ti/FUAAAAD2F2+WYe0iAMKHSIdBcmAFy+zn4aR6S7yMxu2LTpTxy2RPCO30OBdGLTHlcCWElV7JoWiNlNSNds9oiaciu1VJ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -97,7 +97,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACbZgNEYIIvbVgp7HKyCR6bEgEj9BGZk9bU6W8NIvULOwAAAAAOgAAAAAIAACAAAAD9ORDuOybNLUl2XleHrBJjYliJwFPOX68QjR7aSdMydyAAAACKa/lH6a87pDyZ/0qpsR6BPlMHzbMgVTlnPGLpsucbkEAAAACop2BdJ8Wnr8z9EkUWpz+1TJcsvavwDOQQiMzb4+RfxpFeDcHCPYlBx0hyF38pYZaPa2cWGXXxx+EujyqsGDhf</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABuXm4kPXmB726NlHvX17NTgNY2G/KRaXMklaIpNkaYKQAAAAAOgAAAAAIAACAAAAAB+d213t/rCzrHamIUamsGFJhuvMJcRlpHo8palJybcyAAAAD3EB004jyeyRdrkzA1QyJOFJRCB5gsWCQ2yloksQLx00AAAAChRmznx7zbQPg/pdOiAvMz0VaQcmCdWi9vhXncdAEF1z4uxn50z1gODI2WZW4KMQOmhyAKdvd/6TQ9HC6zd1nC</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -114,13 +114,940 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD468M4z8K8We2phZwyBihyjrpIOnwSbEiVLZ2CwReW7wAAAAAOgAAAAAIAACAAAAB/y7ZEkiTxCEqnprYPlk8rZ4CFIuDUxbYi5BUMQY+GXSAAAABtuzuwRYrfiDEd+usf2gt3dYKX7vy76lQVtIy8z+YVRkAAAABoLpdqQl0vOd6/4oah+vgU/moMdeQuyeWKVgtH4EeOXr4DNQunQlLevV/5uz3+JcoFNHzansVztmarRBhPZPa5</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYBjpxzuY60WVuYymkenTrAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAASaGI0QHLtfJNOSPHalrLUw6sg2TUH5VSVbbjRx7MBdwAAAAAOgAAAAAIAACAAAACMAR+EHVpytmV5RZkx9Lx4/+x+xevkbSI6YTVbJ/IMfCAAAAADUoaZdk/kWHlKHb3PQY7pqoJZ++AUM4zTmlhNqJscFEAAAADmGrL0AXV2YTponLkqfVm04FfOUmrlfqUt/URgJKlTqI+tB9wfBw1wEHifqUc+TuUyq+YHigkyIa48TLBC/ydD</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\checkgit"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{99D6D06A-C561-4F38-B662-C3622BDFD383}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="checkgit"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\checkgit\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset"></property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\checkgit\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[14.232.245.6,1433.inda]"
+                  connectionManagerRefId="Package.ConnectionManagers[14.232.245.6,1433.inda]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\checkgit\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <externalMetadataColumns
+                    isUsed="True" />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\checkgit\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\checkgit\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\checkgit\OLE DB Source"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="OLE DB Source"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[Account]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\checkgit\OLE DB Source.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[14.232.245.6,1344.MISASME2022Sample.inda_01]"
+                  connectionManagerRefId="Package.ConnectionManagers[14.232.245.6,1344.MISASME2022Sample.inda_01]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountID]"
+                      dataType="guid"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountID]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountID]"
+                      name="AccountID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNumber]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNumber]"
+                      length="20"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNumber]"
+                      name="AccountNumber"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountName]"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountName]"
+                      name="AccountName"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameEnglish]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameEnglish]"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameEnglish]"
+                      name="AccountNameEnglish"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Description]"
+                      length="255"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]"
+                      name="Description"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ParentID]"
+                      dataType="guid"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ParentID]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ParentID]"
+                      name="ParentID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[MISACodeID]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[MISACodeID]"
+                      length="100"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[MISACodeID]"
+                      name="MISACodeID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Grade]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Grade]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Grade]"
+                      name="Grade"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[IsParent]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[IsParent]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[IsParent]"
+                      name="IsParent"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountCategoryKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountCategoryKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountCategoryKind]"
+                      name="AccountCategoryKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[IsPostableInForeignCurrency]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[IsPostableInForeignCurrency]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[IsPostableInForeignCurrency]"
+                      name="IsPostableInForeignCurrency"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByAccountObject]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByAccountObject]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByAccountObject]"
+                      name="DetailByAccountObject"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectType]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectType]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectType]"
+                      name="AccountObjectType"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByBankAccount]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByBankAccount]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByBankAccount]"
+                      name="DetailByBankAccount"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByJob]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByJob]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByJob]"
+                      name="DetailByJob"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByJobKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByJobKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByJobKind]"
+                      name="DetailByJobKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByProjectWork]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByProjectWork]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByProjectWork]"
+                      name="DetailByProjectWork"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByProjectWorkKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByProjectWorkKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByProjectWorkKind]"
+                      name="DetailByProjectWorkKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByOrder]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByOrder]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByOrder]"
+                      name="DetailByOrder"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByOrderKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByOrderKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByOrderKind]"
+                      name="DetailByOrderKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByContract]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByContract]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByContract]"
+                      name="DetailByContract"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByContractKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByContractKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByContractKind]"
+                      name="DetailByContractKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByExpenseItem]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByExpenseItem]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByExpenseItem]"
+                      name="DetailByExpenseItem"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByExpenseItemKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByExpenseItemKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByExpenseItemKind]"
+                      name="DetailByExpenseItemKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByDepartment]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByDepartment]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByDepartment]"
+                      name="DetailByDepartment"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByDepartmentKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByDepartmentKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByDepartmentKind]"
+                      name="DetailByDepartmentKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByListItem]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByListItem]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByListItem]"
+                      name="DetailByListItem"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByListItemKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByListItemKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByListItemKind]"
+                      name="DetailByListItemKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Inactive]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Inactive]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[Inactive]"
+                      name="Inactive"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedDate]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedDate]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedDate]"
+                      name="CreatedDate"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedBy]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedBy]"
+                      length="50"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedBy]"
+                      name="CreatedBy"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ModifiedDate]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ModifiedDate]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ModifiedDate]"
+                      name="ModifiedDate"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ModifiedBy]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ModifiedBy]"
+                      length="50"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[ModifiedBy]"
+                      name="ModifiedBy"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[SortMISACodeID]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SortMISACodeID]"
+                      length="100"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[SortMISACodeID]"
+                      name="SortMISACodeID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByPUContract]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByPUContract]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByPUContract]"
+                      name="DetailByPUContract"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByPUContractKind]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByPUContractKind]"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[DetailByPUContractKind]"
+                      name="DetailByPUContractKind"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameChinese]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameChinese]"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameChinese]"
+                      name="AccountNameChinese"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameKorean]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameKorean]"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountNameKorean]"
+                      name="AccountNameKorean"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountID]"
+                      dataType="guid"
+                      name="AccountID" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNumber]"
+                      dataType="wstr"
+                      length="20"
+                      name="AccountNumber" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountName]"
+                      dataType="wstr"
+                      length="128"
+                      name="AccountName" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameEnglish]"
+                      dataType="wstr"
+                      length="128"
+                      name="AccountNameEnglish" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Description]"
+                      dataType="wstr"
+                      length="255"
+                      name="Description" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ParentID]"
+                      dataType="guid"
+                      name="ParentID" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[MISACodeID]"
+                      dataType="wstr"
+                      length="100"
+                      name="MISACodeID" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Grade]"
+                      dataType="i4"
+                      name="Grade" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[IsParent]"
+                      dataType="bool"
+                      name="IsParent" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountCategoryKind]"
+                      dataType="i4"
+                      name="AccountCategoryKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[IsPostableInForeignCurrency]"
+                      dataType="bool"
+                      name="IsPostableInForeignCurrency" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByAccountObject]"
+                      dataType="bool"
+                      name="DetailByAccountObject" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectType]"
+                      dataType="i4"
+                      name="AccountObjectType" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByBankAccount]"
+                      dataType="bool"
+                      name="DetailByBankAccount" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByJob]"
+                      dataType="bool"
+                      name="DetailByJob" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByJobKind]"
+                      dataType="i4"
+                      name="DetailByJobKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByProjectWork]"
+                      dataType="bool"
+                      name="DetailByProjectWork" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByProjectWorkKind]"
+                      dataType="i4"
+                      name="DetailByProjectWorkKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByOrder]"
+                      dataType="bool"
+                      name="DetailByOrder" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByOrderKind]"
+                      dataType="i4"
+                      name="DetailByOrderKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByContract]"
+                      dataType="bool"
+                      name="DetailByContract" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByContractKind]"
+                      dataType="i4"
+                      name="DetailByContractKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByExpenseItem]"
+                      dataType="bool"
+                      name="DetailByExpenseItem" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByExpenseItemKind]"
+                      dataType="i4"
+                      name="DetailByExpenseItemKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByDepartment]"
+                      dataType="bool"
+                      name="DetailByDepartment" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByDepartmentKind]"
+                      dataType="i4"
+                      name="DetailByDepartmentKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByListItem]"
+                      dataType="bool"
+                      name="DetailByListItem" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByListItemKind]"
+                      dataType="i4"
+                      name="DetailByListItemKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Inactive]"
+                      dataType="bool"
+                      name="Inactive" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedDate]"
+                      dataType="dbTimeStamp"
+                      name="CreatedDate" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedBy]"
+                      dataType="wstr"
+                      length="50"
+                      name="CreatedBy" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ModifiedDate]"
+                      dataType="dbTimeStamp"
+                      name="ModifiedDate" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[ModifiedBy]"
+                      dataType="wstr"
+                      length="50"
+                      name="ModifiedBy" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SortMISACodeID]"
+                      dataType="wstr"
+                      length="100"
+                      name="SortMISACodeID" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByPUContract]"
+                      dataType="bool"
+                      name="DetailByPUContract" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DetailByPUContractKind]"
+                      dataType="i4"
+                      name="DetailByPUContractKind" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameChinese]"
+                      dataType="wstr"
+                      length="128"
+                      name="AccountNameChinese" />
+                    <externalMetadataColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountNameKorean]"
+                      dataType="wstr"
+                      length="128"
+                      name="AccountNameKorean" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountID]"
+                      dataType="guid"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountID]"
+                      name="AccountID" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNumber]"
+                      dataType="wstr"
+                      length="20"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNumber]"
+                      name="AccountNumber" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountName]"
+                      dataType="wstr"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountName]"
+                      name="AccountName" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameEnglish]"
+                      dataType="wstr"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameEnglish]"
+                      name="AccountNameEnglish" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Description]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Description]"
+                      name="Description" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ParentID]"
+                      dataType="guid"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ParentID]"
+                      name="ParentID" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[MISACodeID]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[MISACodeID]"
+                      name="MISACodeID" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Grade]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Grade]"
+                      name="Grade" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[IsParent]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[IsParent]"
+                      name="IsParent" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountCategoryKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountCategoryKind]"
+                      name="AccountCategoryKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[IsPostableInForeignCurrency]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[IsPostableInForeignCurrency]"
+                      name="IsPostableInForeignCurrency" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByAccountObject]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByAccountObject]"
+                      name="DetailByAccountObject" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectType]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectType]"
+                      name="AccountObjectType" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByBankAccount]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByBankAccount]"
+                      name="DetailByBankAccount" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByJob]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByJob]"
+                      name="DetailByJob" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByJobKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByJobKind]"
+                      name="DetailByJobKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByProjectWork]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByProjectWork]"
+                      name="DetailByProjectWork" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByProjectWorkKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByProjectWorkKind]"
+                      name="DetailByProjectWorkKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByOrder]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByOrder]"
+                      name="DetailByOrder" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByOrderKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByOrderKind]"
+                      name="DetailByOrderKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByContract]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByContract]"
+                      name="DetailByContract" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByContractKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByContractKind]"
+                      name="DetailByContractKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByExpenseItem]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByExpenseItem]"
+                      name="DetailByExpenseItem" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByExpenseItemKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByExpenseItemKind]"
+                      name="DetailByExpenseItemKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByDepartment]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByDepartment]"
+                      name="DetailByDepartment" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByDepartmentKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByDepartmentKind]"
+                      name="DetailByDepartmentKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByListItem]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByListItem]"
+                      name="DetailByListItem" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByListItemKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByListItemKind]"
+                      name="DetailByListItemKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Inactive]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Inactive]"
+                      name="Inactive" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedDate]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedDate]"
+                      name="CreatedDate" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedBy]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedBy]"
+                      name="CreatedBy" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ModifiedDate]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ModifiedDate]"
+                      name="ModifiedDate" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ModifiedBy]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ModifiedBy]"
+                      name="ModifiedBy" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SortMISACodeID]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SortMISACodeID]"
+                      name="SortMISACodeID" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByPUContract]"
+                      dataType="bool"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByPUContract]"
+                      name="DetailByPUContract" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByPUContractKind]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DetailByPUContractKind]"
+                      name="DetailByPUContractKind" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameChinese]"
+                      dataType="wstr"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameChinese]"
+                      name="AccountNameChinese" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameKorean]"
+                      dataType="wstr"
+                      length="128"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountNameKorean]"
+                      name="AccountNameKorean" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\checkgit.Paths[OLE DB Source Output]"
+              endId="Package\checkgit\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\checkgit\OLE DB Source.Outputs[OLE DB Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\dim)product"
       DTS:CreationName="Microsoft.Pipeline"
@@ -7667,444 +8594,6 @@ on c.accountobjectID = a.accountobjectID;</property>
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\mart_tt1_item_acc_revenue"
-      DTS:CreationName="Microsoft.Pipeline"
-      DTS:Description="Data Flow Task"
-      DTS:DTSID="{492C19BD-80FF-4C9E-A8ED-91017F8961A7}"
-      DTS:ExecutableType="Microsoft.Pipeline"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="mart_tt1_item_acc_revenue"
-      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <pipeline
-          version="1">
-          <components>
-            <component
-              refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="OLE DB Destination"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[item_acc_revenue]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">3</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[14.232.245.6,1433.MISA_DATAMART.inda]"
-                  connectionManagerRefId="Package.ConnectionManagers[14.232.245.6,1433.MISA_DATAMART.inda]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[AccountObjectID]"
-                      cachedDataType="guid"
-                      cachedName="AccountObjectID"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AccountObjectID]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectID]" />
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[AccountObjectNameDI]"
-                      cachedDataType="wstr"
-                      cachedLength="400"
-                      cachedName="AccountObjectNameDI"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AccountObjectNameDI]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectNameDI]" />
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[InventoryItemCode]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="InventoryItemCode"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InventoryItemCode]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemCode]" />
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[InventoryItemName]"
-                      cachedDataType="wstr"
-                      cachedLength="500"
-                      cachedName="InventoryItemName"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InventoryItemName]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemName]" />
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[total_revenue]"
-                      cachedDataType="numeric"
-                      cachedName="total_revenue"
-                      cachedPrecision="38"
-                      cachedScale="6"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[total_revenue]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_revenue]" />
-                    <inputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[total_sales]"
-                      cachedDataType="numeric"
-                      cachedName="total_sales"
-                      cachedPrecision="38"
-                      cachedScale="8"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[total_sales]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_sales]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AccountObjectID]"
-                      dataType="guid"
-                      name="AccountObjectID" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AccountObjectNameDI]"
-                      dataType="wstr"
-                      length="400"
-                      name="AccountObjectNameDI" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InventoryItemCode]"
-                      dataType="wstr"
-                      length="50"
-                      name="InventoryItemCode" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InventoryItemName]"
-                      dataType="wstr"
-                      length="500"
-                      name="InventoryItemName" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[total_revenue]"
-                      dataType="numeric"
-                      name="total_revenue"
-                      precision="20"
-                      scale="6" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[total_sales]"
-                      dataType="numeric"
-                      name="total_sales"
-                      precision="20"
-                      scale="6" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\mart_tt1_item_acc_revenue\OLE DB Source"
-              componentClassID="Microsoft.OLEDBSource"
-              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-              description="OLE DB Source"
-              name="OLE DB Source"
-              usesDispositions="true"
-              version="7">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset"></property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT 
-    AccountObjectID, 
-    AccountObjectNameDI, 
-    InventoryItemCode, 
-    InventoryItemName, 
-    SUM(LedgerAmount) AS total_revenue, 
-    SUM(LedgerQuantity) AS total_sales 
-    --SUM(sl.VATAmount) AS total_VAT, 
-   
-FROM 
-    dbo.Fact_Ledger 
-join dim_customer 
-on Fact_Ledger.AccountObjectID=dim_customer.CustomerID
-Where AccountObjectID=CustomerID
-and Fact_Ledger.LedgerType=0
-GROUP BY 
-    AccountObjectID, 
-    AccountObjectNameDI, 
-    InventoryItemCode, 
-    InventoryItemName</property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">2</property>
-                <property
-                  dataType="System.String"
-                  description="The mappings between the parameters in the SQL command and variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[14.232.245.6,1433.MISA_DWH.inda]"
-                  connectionManagerRefId="Package.ConnectionManagers[14.232.245.6,1433.MISA_DWH.inda]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output]"
-                  name="OLE DB Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectID]"
-                      dataType="guid"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectID]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectID]"
-                      name="AccountObjectID"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectNameDI]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectNameDI]"
-                      length="400"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[AccountObjectNameDI]"
-                      name="AccountObjectNameDI"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemCode]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InventoryItemCode]"
-                      length="50"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemCode]"
-                      name="InventoryItemCode"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InventoryItemName]"
-                      length="500"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[InventoryItemName]"
-                      name="InventoryItemName"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_revenue]"
-                      dataType="numeric"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[total_revenue]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_revenue]"
-                      name="total_revenue"
-                      precision="38"
-                      scale="6"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_sales]"
-                      dataType="numeric"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[total_sales]"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].Columns[total_sales]"
-                      name="total_sales"
-                      precision="38"
-                      scale="8"
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectID]"
-                      dataType="guid"
-                      name="AccountObjectID" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AccountObjectNameDI]"
-                      dataType="wstr"
-                      length="400"
-                      name="AccountObjectNameDI" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InventoryItemCode]"
-                      dataType="wstr"
-                      length="50"
-                      name="InventoryItemCode" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InventoryItemName]"
-                      dataType="wstr"
-                      length="500"
-                      name="InventoryItemName" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[total_revenue]"
-                      dataType="numeric"
-                      name="total_revenue"
-                      precision="38"
-                      scale="6" />
-                    <externalMetadataColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[total_sales]"
-                      dataType="numeric"
-                      name="total_sales"
-                      precision="38"
-                      scale="8" />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output]"
-                  isErrorOut="true"
-                  name="OLE DB Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectID]"
-                      dataType="guid"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectID]"
-                      name="AccountObjectID" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectNameDI]"
-                      dataType="wstr"
-                      length="400"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AccountObjectNameDI]"
-                      name="AccountObjectNameDI" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InventoryItemCode]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InventoryItemCode]"
-                      name="InventoryItemCode" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InventoryItemName]"
-                      dataType="wstr"
-                      length="500"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InventoryItemName]"
-                      name="InventoryItemName" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[total_revenue]"
-                      dataType="numeric"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[total_revenue]"
-                      name="total_revenue"
-                      precision="38"
-                      scale="6" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[total_sales]"
-                      dataType="numeric"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[total_sales]"
-                      name="total_sales"
-                      precision="38"
-                      scale="8" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-          </components>
-          <paths>
-            <path
-              refId="Package\mart_tt1_item_acc_revenue.Paths[OLE DB Source Output]"
-              endId="Package\mart_tt1_item_acc_revenue\OLE DB Destination.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\mart_tt1_item_acc_revenue\OLE DB Source.Outputs[OLE DB Source Output]" />
-          </paths>
-        </pipeline>
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
       DTS:refId="Package\mart_tt2_Cate_Revenue_Sale"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
@@ -10781,17 +11270,17 @@ GROUP BY
           Id="Package\fact_contract"
           TopLeft="266.5,106.5" />
         <NodeLayout
-          Size="168,42"
-          Id="Package\stg_accountobject"
-          TopLeft="40.5,188.5" />
-        <NodeLayout
           Size="227,42"
           Id="Package\mart_tt2_Cate_Revenue_Sale"
           TopLeft="589.5,36.5" />
         <NodeLayout
-          Size="215,42"
-          Id="Package\mart_tt1_item_acc_revenue"
-          TopLeft="609.5,118.5" />
+          Size="168,42"
+          Id="Package\stg_accountobject"
+          TopLeft="40.5,188.5" />
+        <NodeLayout
+          Size="119,42"
+          Id="Package\checkgit"
+          TopLeft="605.5,189.5" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -11172,6 +11661,65 @@ GROUP BY
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
+    design-time-name="Package\mart_tt2_Cate_Revenue_Sale">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="157,42"
+          Id="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Source"
+          TopLeft="180,189" />
+        <NodeLayout
+          Size="177,42"
+          Id="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Destination"
+          TopLeft="525,190" />
+        <EdgeLayout
+          Id="Package\mart_tt2_Cate_Revenue_Sale.Paths[OLE DB Source Output]"
+          TopLeft="337,210.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="188,0"
+              Start="0,0"
+              End="180.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="180.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
     design-time-name="Package\stg_accountobject">
     <LayoutInfo>
       <GraphLayout
@@ -11250,32 +11798,44 @@ GROUP BY
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\mart_tt2_Cate_Revenue_Sale">
+    design-time-name="Package\checkgit">
     <LayoutInfo>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="157,42"
-          Id="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Source"
-          TopLeft="180,189" />
+          Id="Package\checkgit\OLE DB Source"
+          TopLeft="439,163" />
         <NodeLayout
           Size="177,42"
-          Id="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Destination"
-          TopLeft="525,190" />
+          Id="Package\checkgit\OLE DB Destination"
+          TopLeft="816,176" />
         <EdgeLayout
-          Id="Package\mart_tt2_Cate_Revenue_Sale.Paths[OLE DB Source Output]"
-          TopLeft="337,210.5">
+          Id="Package\checkgit.Paths[OLE DB Source Output]"
+          TopLeft="596,184">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="188,0"
+              EndConnector="220,13"
               Start="0,0"
-              End="180.5,0">
+              End="212.5,13">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="180.5,0" />
+                    End="106,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="106,0"
+                    Point2="110,0"
+                    Point3="110,4" />
+                  <mssgle:LineSegment
+                    End="110,9" />
+                  <mssgle:CubicBezierSegment
+                    Point1="110,9"
+                    Point2="110,13"
+                    Point3="114,13" />
+                  <mssgle:LineSegment
+                    End="212.5,13" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -11288,86 +11848,7 @@ GROUP BY
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\mart_tt2_Cate_Revenue_Sale\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\mart_tt1_item_acc_revenue">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="157,42"
-          Id="Package\mart_tt1_item_acc_revenue\OLE DB Source"
-          TopLeft="367,159" />
-        <NodeLayout
-          Size="177,42"
-          Id="Package\mart_tt1_item_acc_revenue\OLE DB Destination"
-          TopLeft="706,177" />
-        <EdgeLayout
-          Id="Package\mart_tt1_item_acc_revenue.Paths[OLE DB Source Output]"
-          TopLeft="524,180">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="182,18"
-              Start="0,0"
-              End="174.5,18">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="87,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="87,0"
-                    Point2="91,0"
-                    Point3="91,4" />
-                  <mssgle:LineSegment
-                    End="91,14" />
-                  <mssgle:CubicBezierSegment
-                    Point1="91,14"
-                    Point2="91,18"
-                    Point3="95,18" />
-                  <mssgle:LineSegment
-                    End="174.5,18" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\mart_tt1_item_acc_revenue\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\mart_tt1_item_acc_revenue\OLE DB Destination">
+    design-time-name="Package\checkgit\OLE DB Source">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
