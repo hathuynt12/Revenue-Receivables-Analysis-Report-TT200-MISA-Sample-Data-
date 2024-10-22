@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="74"
-  DTS:VersionGUID="{41AD40C2-F6A7-4101-9600-60403682074E}">
+  DTS:VersionBuild="75"
+  DTS:VersionGUID="{875759F4-A5F1-4DE5-9545-20EB028A7E5B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -147,7 +147,12 @@
       <DTS:Variables />
       <DTS:LoggingOptions
         DTS:FilterKind="0"
-        DTS:LoggingMode="1" />
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -1564,7 +1569,13 @@
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -3145,7 +3156,13 @@ where IsEmployee=1</property>
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -5245,7 +5262,13 @@ where IsEmployee=1</property>
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -5726,7 +5749,13 @@ where IsEmployee=1</property>
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -7702,7 +7731,13 @@ on c.accountobjectID = a.accountobjectID;</property>
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
@@ -8103,7 +8138,13 @@ GROUP BY
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:LoggingOptions
-        DTS:FilterKind="0" />
+        DTS:FilterKind="0"
+        DTS:LoggingMode="1">
+        <DTS:SelectedLogProviders>
+          <DTS:SelectedLogProvider
+            DTS:InstanceID="{480CEDD5-9B58-4583-AFC1-E05D728B0912}" />
+        </DTS:SelectedLogProviders>
+      </DTS:LoggingOptions>
       <DTS:ObjectData>
         <pipeline
           version="1">
