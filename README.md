@@ -79,8 +79,8 @@ The Power BI dashboard includes multiple layers of insights:
 
 ![PowerBI Dashboard Revenue](images/revenue_report.png)
 > Tracks monthly revenue trends, top-selling products, and revenue by account or customer.
->
-> **Receivables Analysis Report**
+
+**Receivables Analysis Report**
 
 
 ![PowerBI Dashboard Receivables](images/receivables_report.png)
