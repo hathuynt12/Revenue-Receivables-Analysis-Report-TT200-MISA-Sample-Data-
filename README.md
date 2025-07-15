@@ -73,12 +73,18 @@ The Power BI dashboard includes multiple layers of insights:
 - Date range, Account object, Branch, Inventory Item
 
 🖼️ *Dashboard preview available in `.pbix` file*
+### 🔍 Dashboard Previews
+
+**Revenue Overview Report**
 
 ![PowerBI Dashboard Revenue](images/revenue_report.png)
+> Tracks monthly revenue trends, top-selling products, and revenue by account or customer.
+>
+> **Receivables Analysis Report**
 
 
 ![PowerBI Dashboard Receivables](images/receivables_report.png)
-
+> Displays outstanding invoices, aging buckets, and high-risk overdue debts.
 ---
 
 ## 🧩 Data Model (ERD)
@@ -108,5 +114,6 @@ The data warehouse model follows a **star schema** with `Fact_Ledger` at the cen
 
 └── README.md
 
+## 👤 Author
 
 **Ha Thuy Nguyen**  
